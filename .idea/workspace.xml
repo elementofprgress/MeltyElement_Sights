@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26cbd5a1-5e4d-4a63-9d2e-30ffb77ee752" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/MeltyElement_Sights.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/eleme.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUIFlash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buildRelease.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/WoT_1.0.2.1/mod_MeltyElementSights_v1.0.0b.7z" beforeDir="false" afterPath="$PROJECT_DIR$/release/WoT_1.0.2.1/mod_MeltyElementSights_v1.0.0b.7z" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/WoT_1.0.2.1/mods/gambiter.guiflash_0.2.5.wotmod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/WoT_1.0.2.1/res_mods/1.0.2.1/gui/flash/ArcadeBattleFlash.swf" beforeDir="false" afterPath="$PROJECT_DIR$/release/WoT_1.0.2.1/res_mods/1.0.2.1/gui/flash/ArcadeBattleFlash.swf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/WoT_1.0.2.1/res_mods/1.0.2.1/gui/flash/ArtyBattleFlash.swf" beforeDir="false" afterPath="$PROJECT_DIR$/release/WoT_1.0.2.1/res_mods/1.0.2.1/gui/flash/ArtyBattleFlash.swf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/WoT_1.0.2.1/res_mods/1.0.2.1/gui/flash/SniperBattleFlash.swf" beforeDir="false" afterPath="$PROJECT_DIR$/release/WoT_1.0.2.1/res_mods/1.0.2.1/gui/flash/SniperBattleFlash.swf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/flash/ArcadeBattleFlash/ArcadeBattleFlash.fla" beforeDir="false" afterPath="$PROJECT_DIR$/source/flash/ArcadeBattleFlash/ArcadeBattleFlash.fla" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/flash/ArtyBattleFlash/ArtyBattleFlash.fla" beforeDir="false" afterPath="$PROJECT_DIR$/source/flash/ArtyBattleFlash/ArtyBattleFlash.fla" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/flash/SniperBattleFlash/SniperBattleFlash.fla" beforeDir="false" afterPath="$PROJECT_DIR$/source/flash/SniperBattleFlash/SniperBattleFlash.fla" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/python/mod_ArcadeBattleFlash.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/python/mod_ArcadeBattleFlash.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/python/mod_ArtyBattleFlash.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/python/mod_ArtyBattleFlash.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/python/mod_SniperBattleFlash.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/python/mod_SniperBattleFlash.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MeltyElement_Sights$buildRelease.coverage" NAME="buildRelease Coverage Results" MODIFIED="1530661450021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="mod_ArcadeBattleFlash.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/python/mod_ArcadeBattleFlash.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="51" column="38" selection-start-line="51" selection-start-column="38" selection-end-line="51" selection-end-column="38" />
+              <folding>
+                <element signature="e#15#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="buildRelease.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/buildRelease.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="301">
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pydevd.py" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="1067" selection-start-line="1067" selection-end-line="1067" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shutil.py" pinned="false" current-in-tab="false">
+        <entry file="file://C:/Python27/Lib/shutil.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="118">
+              <caret line="97" selection-start-line="97" selection-end-line="97" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mod_ArtyBattleFlash.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/python/mod_ArtyBattleFlash.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+              <folding>
+                <element signature="e#15#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mod_SniperBattleFlash.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/python/mod_SniperBattleFlash.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="429">
+              <caret line="223" column="71" selection-start-line="223" selection-start-column="71" selection-end-line="223" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>gunPitch</find>
+      <find>protec</find>
+      <find># noinspection.*?pro</find>
+      <find>Ver</find>
+      <find>base</find>
+      <find>print &quot;[MeltyElement]: L</find>
+      <find>releaseDir</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\GitHub\MeltyElement_Effective_Armor_Mod\source\python</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/source/python/mod_SniperBattleFlash.py" />
+        <option value="$PROJECT_DIR$/source/python/mod_ArtyBattleFlash.py" />
+        <option value="$PROJECT_DIR$/source/python/mod_ArcadeBattleFlash.py" />
+        <option value="$PROJECT_DIR$/buildRelease.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="y" value="11" />
+    <option name="width" value="1932" />
+    <option name="height" value="1046" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MeltyElement_Sights" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MeltyElement_Sights" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MeltyElement_Sights" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MeltyElement_Sights" type="462c0819:PsiDirectoryNode" />
+              <item name="release" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MeltyElement_Sights" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MeltyElement_Sights" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MeltyElement_Sights" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MeltyElement_Sights" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/GitHub/MeltyElement_Effective_Armor_Mod/source/python" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="buildRelease" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MeltyElement_Sights" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/buildRelease.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.buildRelease" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26cbd5a1-5e4d-4a63-9d2e-30ffb77ee752" name="Default" comment="" />
+      <created>1530651596363</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530651596363</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="11" width="1932" height="1046" extended-state="0" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" weight="0.33670035" />
+      <window_info anchor="bottom" id="Python Console" weight="0.32996634" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32996634" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25053418" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="SciView" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39955106" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/buildRelease.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://D:/GitHub/GUIFlash/GUIFlash-master/res/scripts/client/gui/mods/gambiter/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/python/mod_SniperBattleFlash.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="223" column="71" selection-start-line="223" selection-start-column="71" selection-end-line="223" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/python/mod_ArtyBattleFlash.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="e#15#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/python/mod_ArcadeBattleFlash.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="51" column="38" selection-start-line="51" selection-start-column="38" selection-end-line="51" selection-end-column="38" />
+          <folding>
+            <element signature="e#15#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="1067" selection-start-line="1067" selection-end-line="1067" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/shutil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buildRelease.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

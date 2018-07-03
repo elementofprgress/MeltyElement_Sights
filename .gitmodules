@@ -1,0 +1,3 @@
+[submodule "GUIFlash"]
+	path = GUIFlash
+	url = https://github.com/GambitER/GUIFlash
